@@ -25,4 +25,4 @@ form.addEventListener("submit", (e) => {
 
 form.addEventListener("input", throttle(() => {
   const email = form.elements.email.value;
-}));
+}, 500));

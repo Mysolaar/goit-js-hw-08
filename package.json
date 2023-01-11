@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Mysolaar/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Magdalena Grądek <magdalena.gradeka@gmail.com>",
+  "author": "Magdalena Grądek <magdalena.gradek@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mysolaar/goit-js-hw-08/issues"
@@ -30,6 +30,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
